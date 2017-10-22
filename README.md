@@ -17,10 +17,12 @@ install.packages(c("readr", "ggplot2", "plotly", "corrplot", "rpart", "rpart.plo
 
 ## Deployment
 
-Save the files in the same directory, with the jpg in a www directory. Run the application with the following command:
+Save the files in the same directory, with the jpg in a www directory. Please note that the dashboard takes a few moments to load.
+Run the application with the following command:
 ```
 shinyApp(ui = ui, server = server)
 ```
+
 
 ## Built With
 
