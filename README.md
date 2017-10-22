@@ -7,8 +7,7 @@ Initially, I submitted a research paper exploring the influence of physiochemica
 
 ## Getting Started
 
-I carried out this research using R Studio. 
-Download R Studio: [RStudio](https://www.rstudio.com/products/rstudio/download/) 
+I carried out this research using R Studio: Download [RStudio](https://www.rstudio.com/products/rstudio/download/) 
 
 In addition, I installed and loaded the following packages.
 
