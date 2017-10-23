@@ -12,7 +12,7 @@ I carried out this research using R Studio: Download [RStudio](https://www.rstud
 In addition, I installed and loaded the following packages.
 
 ```
-install.packages(c("readr", "ggplot2", "plotly", "corrplot", "rpart", "rpart.plot", "randomForest", "shiny", "shinydashboard", "data.table", "caret"))
+install.packages(c("readr", "ggplot2", "plotly", "corrplot", "rpart", "rpart.plot", "randomForest", "shiny", "shinydashboard", "data.table", "caret", "car"))
 ```
 
 ## Deployment
